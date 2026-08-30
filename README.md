@@ -1,4 +1,4 @@
-[![Gen AI Academy APAC 2026 Cohort 2](https://www.reddit.com/r/ambitionarena7/comments/1t730em/google_cloud_gen_ai_academy_apac_2026_cohort_2_is/)](https://www.reddit.com/r/ambitionarena7/comments/1t730em/google_cloud_gen_ai_academy_apac_2026_cohort_2_is/)
+[![Gen AI Academy APAC 2026](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgb9wet4n24wo6htadmvc.jpg)](https://www.reddit.com/r/ambitionarena7/comments/1t730em/google_cloud_gen_ai_academy_apac_2026_cohort_2_is/)
 
 # Achintisalive: AI Socratic Tutor for Secure Coding 🛡️💡
 
