@@ -1,10 +1,12 @@
+[![Gen AI Academy APAC 2026 Cohort 2](https://www.reddit.com/r/ambitionarena7/comments/1t730em/google_cloud_gen_ai_academy_apac_2026_cohort_2_is/)](https://www.reddit.com/r/ambitionarena7/comments/1t730em/google_cloud_gen_ai_academy_apac_2026_cohort_2_is/)
+
 # Achintisalive: AI Socratic Tutor for Secure Coding 🛡️💡
 
 ## Overview
-Achintisalive is an AI-powered educational co-pilot designed to solve the lack of personalized feedback in secure coding. Built for the Gen AI Academy APAC, it acts as a Socratic tutor—analyzing code snippets for security vulnerabilities and algorithmic inefficiencies, and guiding users to the solution through hints rather than just providing the corrected code.
+Achintisalive is an AI-powered educational co-pilot designed to solve the lack of personalized feedback in secure coding. Built for the Gen AI Academy APAC, it acts as a Socratic tutor—analyzing code submissions and providing guided feedback.
 
 ## The Problem
-Developers and students working through technical skill roadmaps often hit roadblocks when their code fails security checks. Traditional AI tools instantly generate the fixed code, bypassing the learning process. Achintisalive encourages active learning by teaching *how* to think securely.
+Developers and students working through technical skill roadmaps often hit roadblocks when their code fails security checks. Traditional AI tools instantly generate the fixed code, bypassing the learning process. Achintisalive changes this by asking insightful questions and providing hints instead.
 
 ## Key Features
 * Vulnerability Spotter: Flags common security risks (e.g., SQL injections, XSS, hardcoded credentials) and inefficiencies.
